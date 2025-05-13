@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@react-hook/media-query": "^1.1.1",
-    "axios": "^0.21.1",
+    "axios": "^1.8.3",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.26.3",
     "formik": "^2.2.9",
